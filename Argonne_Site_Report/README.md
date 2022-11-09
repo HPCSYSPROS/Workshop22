@@ -1,6 +1,6 @@
 # Argonne Site Report
 
-**Authors**
+**Author**
 * Susan Coghlan, Argonne National Laboratory (ANL)
 
 **Abstract:**
