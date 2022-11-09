@@ -9,7 +9,7 @@
 ### [An Automated Approach to Continuous Acceptance Testing of HPC Systems at NERSC](https://github.com/HPCSYSPROS/Workshop22/tree/master/An_Automated_Approach_to_Continuous_Acceptance_Testing_of_HPC_Systems_at_NERSC)
 **Authors:** Shahzeb SiddiquiErik PalmerSameer ShendeWyatt SpearPrathmesh SambrekarSijie Xiang
 
-### [Overcoming HPC System Management Challenges: An Open Source Approach](https://github.com/HPCSYSPROS/Workshop22/tree/master/Overcoming_HPC_System Management_Challenges-An_Open_Source_Approach)
+### [Overcoming HPC System Management Challenges: An Open Source Approach](https://github.com/HPCSYSPROS/Workshop22/tree/master/Overcoming_HPC_System_Management_Challenges-An_Open_Source_Approach)
 **Authors:** Michael Hartman
 
 ### [Using xCAT and Git to Manage Node Software Consistency and DevOPs](https://github.com/HPCSYSPROS/Workshop22/tree/master/Using_xCAT_and_Git_to_Manage_Node_Software_Consistency_and_DevOPs)
