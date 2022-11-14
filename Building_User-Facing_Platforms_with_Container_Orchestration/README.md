@@ -1,5 +1,7 @@
 # Building User-Facing Platforms with Container Orchestration
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320231.svg)](https://doi.org/10.5281/zenodo.7320231)
+
 **Author**
 * Jason Kincl, Red Hat Inc
 
