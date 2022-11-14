@@ -1,5 +1,7 @@
 # An Automated Approach to Continuous Acceptance Testing of HPC Systems at NERSC
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320179.svg)](https://doi.org/10.5281/zenodo.7320179)
+
 **Authors**
 * Shahzeb Siddiqui, Lawrence Berkeley National Laboratory (LBNL)
 * Erik Palmer, Lawrence Berkeley National Laboratory (LBNL)
