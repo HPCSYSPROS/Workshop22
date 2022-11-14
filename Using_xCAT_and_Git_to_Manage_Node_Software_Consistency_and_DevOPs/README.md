@@ -1,5 +1,7 @@
 # Using xCAT and Git to Manage Node Software Consistency and DevOPs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320206.svg)](https://doi.org/10.5281/zenodo.7320206)
+
 **Author**
 * Ross Mickens, Pennsylvania State University
 
